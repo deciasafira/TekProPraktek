@@ -29,7 +29,7 @@ public class TestCylinder {
 		 + " height=" + c3.getHeight()
 		 + " base area=" + c3.getArea()
 		 + " volume=" + c3.getVolume());
-		+ "\n catatan = " + c3toString());
+		 + "\n catatan = " + c3toString());
 
 	}
 
