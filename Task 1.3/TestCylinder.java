@@ -9,7 +9,6 @@ public class TestCylinder {
 		 + " height=" + c1.getHeight()
 		 + " base area=" + c1.getArea()
 		 + " volume=" + c1.getVolume());
-		 + "\n catatan = " + c1.toString());
 		 
 		 // Declare and allocate a new instance of cylinder
 		 // specifying height, with default color and radius
@@ -19,8 +18,7 @@ public class TestCylinder {
 		 + " height=" + c2.getHeight()
 		 + " base area=" + c2.getArea()
 		 + " volume=" + c2.getVolume());
-		 + "\n catatan = " + c2toString());
-		 
+		 		 
 		 // Declare and allocate a new instance of cylinder
 		 // specifying radius and height, with default color
 		 Cylinder c3 = new Cylinder(2.0, 10.0);
@@ -29,8 +27,7 @@ public class TestCylinder {
 		 + " height=" + c3.getHeight()
 		 + " base area=" + c3.getArea()
 		 + " volume=" + c3.getVolume());
-		 + "\n catatan = " + c3toString());
-
+		 
 	}
 
 }
